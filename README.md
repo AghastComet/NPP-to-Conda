@@ -9,7 +9,7 @@ C:\PATH\NPP-to-Conda.bat C:\Users\USER\Anaconda3 "$(FULL_CURRENT_PATH)"
 ```
 to simply run the python script
 ```
-C:\PATH\NPP-to-Conda.bat.bat C:\Users\USER\Anaconda3 "$(FULL_CURRENT_PATH)" 1
+C:\PATH\NPP-to-Conda.bat C:\Users\USER\Anaconda3 "$(FULL_CURRENT_PATH)" 1
 ```
 to run the python script interactivly.
 
