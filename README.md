@@ -12,5 +12,7 @@ to simply run the python script
 C:\PATH\NPP-to-Conda.bat C:\Users\USER\Anaconda3 "$(FULL_CURRENT_PATH)" 1
 ```
 to run the python script interactivly.
+
 Replace PATH, USER, and Anaconda3 with the appropriate information.
+
 The trailing 1 causes python to start interactivly so it wont close one the file has ended.
